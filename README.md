@@ -9,4 +9,4 @@ The developer behind most of the Web3 hits in the market.
 
 [Portfolio](https://hooyar.dev) · [LinkedIn](https://linkedin.com/in/hooyarlotfy) · [Email](mailto:hooyar@qmas.io)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=hooyarlotfy&show_icons=true&theme=default)
+
